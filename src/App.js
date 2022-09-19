@@ -7,9 +7,10 @@ function App() {
   return (
     <div className="App">
       Hello World!
+      bravo!
     </div>
   );
-  console.log(greatMoment);
+
 }
 
 export default App;
